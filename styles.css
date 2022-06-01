@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+}
+
+a.links{
+    text-decoration: none;
+    color: white;
+    margin: 5px;
+}
+
+a.links:hover{
+    text-decoration: underline;
+}
+
+div.link-container{
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 5px;
+}
